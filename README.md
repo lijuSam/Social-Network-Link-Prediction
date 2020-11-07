@@ -1,4 +1,4 @@
-# Social Network Link Prediction 
+# Social Network Link Prediction
 
 ## Problem statement: 
 Given a directed social graph, predict missing links to recommend users (missing link prediction in a network).
@@ -34,13 +34,13 @@ Given the directed graph, we generat training samples of good and bad links (i.e
 
 ## My Results & Summary
 
-|--------|---------------|----------|----------------|
+     
 | Sr.no. |     Model     | F1 Score | Accuracy(in %) |
-+--------|---------------|----------|----------------|
+|--------|---------------|----------|----------------|      
 |   1.   | Random Forest |  0.9343  |     93.77      |
 |        |               |          |                |
 |   2.   |    XGBoost    |  0.9318  |     93.54      |
-|--------|---------------|----------|----------------|
+        
 
 1. Given a directed Social graph, the task is to predict the missing links in order to recommend users. The dataset consisted of 2 columns -
 
