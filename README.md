@@ -38,7 +38,6 @@ Given the directed graph, we generat training samples of good and bad links (i.e
 | Sr.no. |     Model     | F1 Score | Accuracy(in %) |
 |--------|---------------|----------|----------------|      
 |   1.   | Random Forest |  0.9343  |     93.77      |
-|        |               |          |                |
 |   2.   |    XGBoost    |  0.9318  |     93.54      |
         
 
