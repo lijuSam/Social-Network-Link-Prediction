@@ -39,6 +39,8 @@ Given the directed graph, we generat training samples of good and bad links (i.e
 |--------|---------------|----------|----------------|      
 |   1.   | Random Forest |  0.9343  |     93.77      |
 |   2.   |    XGBoost    |  0.9318  |     93.54      |
+
+## My Approach
         
 
 1. Given a directed Social graph, the task is to predict the missing links in order to recommend users. The dataset consisted of 2 columns -
